@@ -1,0 +1,29 @@
+body{
+    text-size-adjust: 50px ;
+    text-align: center;
+    background-color: blue;
+    padding: 50px;
+}
+
+.main {
+    border: 2px solid black;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.res{
+width: 97%;
+background-color: gray;
+
+}
+
+.full{
+    width : 100%;
+}
+
+.butt {
+    width : 30px; 
+}
+.half{
+    width: 42%;
+}
